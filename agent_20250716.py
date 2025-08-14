@@ -22,7 +22,7 @@ from livekit.agents import (
     RunContext,
     llm
 )
-#comentario
+
 from livekit.plugins import (
     cartesia,     # ⬅️ TTS usado para hablar
     openai,       # ⬅️ LLM usado para generar respuestas
